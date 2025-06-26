@@ -61,6 +61,7 @@ The objective is to implement and understand both **Simple** and **Multiple Line
 ## 📸 Screenshots
 
 > `task day 3`  
-(Add your screenshots here)
+![download](https://github.com/user-attachments/assets/a1d49b8f-44ae-4061-acfd-dd9dc29e663e)
+
 
 ---
